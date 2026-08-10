@@ -1,0 +1,22 @@
+{
+  ".github/workflows/worktree.yml": {
+    "size": 313,
+    "time": 1786344784,
+    "hash": "417d605842fbb4ee4b112d6196893b7902f8e444"
+  },
+  "1_毛概思维导图.pdf": {
+    "size": 7692570,
+    "time": 1786343181,
+    "hash": "f17dd5e0f9b5bd1c59f45d751953ec3220a2ea48"
+  },
+  "README.md": {
+    "size": 191,
+    "time": 1786344580,
+    "hash": "c8a88c860a348a53ccf218bea8a875c07bb2ffda"
+  },
+  "test-write.txt": {
+    "size": 5,
+    "time": 1786347818,
+    "hash": "953d4e37f7605cc29a86cb7b4b36feed68e859a6"
+  }
+}
