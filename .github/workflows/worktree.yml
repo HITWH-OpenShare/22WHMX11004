@@ -1,0 +1,14 @@
+name: Update Worktree
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update-worktree:
+    uses: HITWH-OpenShare/repos-management/.github/workflows/reusable_worktree_generate.yml@main
+    with:
+      trigger_page_build: true
+    secrets:
+      PAT: ${{ secrets.PAT }}
